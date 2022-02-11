@@ -8,6 +8,7 @@
         "LICENSE": true,
         ".gitignore": true,
         ".*/": true,
+        ".vscode": false,
         "dist": false,
     }
 }

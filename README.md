@@ -1,5 +1,5 @@
 # Reactive Html Guide
-<img src="./.images/dark-wordmark.png" />
+<img src="./app/assets/images/dark-wordmark.png" />
 
 # TSDX User Guide
 
