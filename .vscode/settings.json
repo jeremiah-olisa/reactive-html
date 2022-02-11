@@ -1,0 +1,13 @@
+{
+    "search.exclude": {
+        "./LICENSE": true
+    },
+    "files.exclude": {
+        "*.gitattributes": true,
+        "**/test": true,
+        "LICENSE": true,
+        ".gitignore": true,
+        ".*/": true,
+        "dist": false,
+    }
+}
